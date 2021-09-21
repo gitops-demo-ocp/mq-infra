@@ -2,6 +2,8 @@
 
 This project contains necessary artifacts for deploying queuemanager on Openshift.
 
+test trigger
+
 ## Table of Contents
 
 * [Introduction](#introduction)
